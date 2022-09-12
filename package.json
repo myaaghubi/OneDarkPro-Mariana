@@ -1,17 +1,16 @@
 {
-  "name": "material-theme",
-  "displayName": "One Dark Pro",
-  "description": "Atom‘s iconic One Dark theme for Visual Studio Code",
-  "version": "3.15.5",
-  "publisher": "zhuangtongfa",
+  "name": "onedarkpro-mariana",
+  "displayName": "One Dark Pro - Mariana",
+  "description": "Atom‘s iconic One Dark theme with Mariana color syntax highlight for VSCode",
+  "version": "0.0.1",
+  "publisher": "myaghobi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Binaryify/OneDark-Pro/issues"
+    "url": "https://github.com/myaghobi/OneDarkPro-Mariana/issues"
   },
-  "homepage": "https://binaryify.github.io/OneDark-Pro/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Binaryify/OneDark-Pro"
+    "url": "https://github.com/myaghobi/OneDarkPro-Mariana"
   },
   "engines": {
     "vscode": "^1.66.0"
@@ -67,71 +66,72 @@
     ],
     "commands": [
       {
-        "command": "oneDarkPro.showChangelog",
-        "title": "%description.oneDarkPro.showChangelog%",
+        "command": "oneDarkProMariana.showChangelog",
+        "title": "%description.oneDarkProMariana.showChangelog%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.setVivid",
-        "title": "%description.oneDarkPro.setVivid%",
+        "command": "oneDarkProMariana.setVivid",
+        "title": "%description.oneDarkProMariana.setVivid%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.cancelVivid",
-        "title": "%description.oneDarkPro.cancelVivid%",
+        "command": "oneDarkProMariana.cancelVivid",
+        "title": "%description.oneDarkProMariana.cancelVivid%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.setItalic",
-        "title": "%description.oneDarkPro.setItalic%",
+        "command": "oneDarkProMariana.setItalic",
+        "title": "%description.oneDarkProMariana.setItalic%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.cancelItalic",
-        "title": "%description.oneDarkPro.cancelItalic%",
+        "command": "oneDarkProMariana.cancelItalic",
+        "title": "%description.oneDarkProMariana.cancelItalic%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.setBold",
-        "title": "%description.oneDarkPro.setBold%",
+        "command": "oneDarkProMariana.setBold",
+        "title": "%description.oneDarkProMariana.setBold%",
         "category": "OneDark Pro"
       },
       {
-        "command": "oneDarkPro.cancelBold",
-        "title": "%description.oneDarkPro.cancelBold%",
+        "command": "oneDarkProMariana.cancelBold",
+        "title": "%description.oneDarkProMariana.cancelBold%",
         "category": "OneDark Pro"
       }
     ],
     "themes": [
       {
-        "label": "One Dark Pro",
+        "label": "One Dark Pro - Mariana",
         "uiTheme": "vs-dark",
-        "path": "./themes/OneDark-Pro.json"
+        "path": "./themes/OneDark-Pro-Mariana.json"
       },
       {
-        "label": "One Dark Pro Flat",
+        "label": "One Dark Pro Flat - Mariana",
         "uiTheme": "vs-dark",
-        "path": "./themes/OneDark-Pro-flat.json"
+        "path": "./themes/OneDark-Pro-flat-Mariana.json"
       },
       {
-        "label": "One Dark Pro Darker",
+        "label": "One Dark Pro Darker - Mariana",
         "uiTheme": "vs-dark",
-        "path": "./themes/OneDark-Pro-darker.json"
+        "path": "./themes/OneDark-Pro-darker-Mariana.json"
       },
       {
-        "label": "One Dark Pro Mix",
+        "label": "One Dark Pro Mix - Mariana",
         "uiTheme": "vs-dark",
-        "path": "./themes/OneDark-Pro-mix.json"
+        "path": "./themes/OneDark-Pro-mix-Mariana.json"
       }
     ],
     "configuration": {
-      "title": "One Dark Pro",
+      "title": "One Dark Pro - Mariana",
       "properties": {
-        "oneDarkPro.editorTheme": {
+        "oneDarkProMariana.editorTheme": {
           "type": "string",
-          "default": "One Dark Pro",
-          "markdownDescription": "%description.oneDarkPro.editorTheme%",
+          "default": "One Dark Pro - Mariana",
+          "markdownDescription": "%description.oneDarkProMariana.editorTheme%",
           "enum": [
+            "One Dark Pro Mariana",
             "One Dark Pro",
             "One Dark Pro Flat",
             "Nord",
@@ -150,27 +150,27 @@
             "Gnome"
           ]
         },
-        "oneDarkPro.italic": {
+        "oneDarkProMariana.italic": {
           "type": "boolean",
           "default": true,
-          "description": "%description.oneDarkPro.italic%"
+          "description": "%description.oneDarkProMariana.italic%"
         },
-        "oneDarkPro.vivid": {
+        "oneDarkProMariana.vivid": {
           "type": "boolean",
           "default": false,
-          "markdownDescription": "%description.oneDarkPro.vivid%"
+          "markdownDescription": "%description.oneDarkProMariana.vivid%"
         },
-        "oneDarkPro.bold": {
+        "oneDarkProMariana.bold": {
           "type": "boolean",
           "default": false,
-          "markdownDescription": "%description.oneDarkPro.bold%"
+          "markdownDescription": "%description.oneDarkProMariana.bold%"
         },
-        "oneDarkPro.markdownStyle": {
+        "oneDarkProMariana.markdownStyle": {
           "type": "boolean",
           "default": true,
-          "description": "%description.oneDarkPro.markdownStyle%"
+          "description": "%description.oneDarkProMariana.markdownStyle%"
         },
-        "oneDarkPro.color": {
+        "oneDarkProMariana.color": {
           "type": "object",
           "scope": "resource",
           "default": {
@@ -250,6 +250,7 @@
   },
   "icon": "icon.png",
   "keywords": [
+    "one dark mariana",
     "one dark",
     "onedark",
     "one dark pro",
@@ -295,22 +296,5 @@
       "supported": true
     },
     "virtualWorkspaces": true
-  },
-  "badges": [
-    {
-      "url": "https://vsmarketplacebadge.apphb.com/version/zhuangtongfa.Material-theme.svg",
-      "href": "https://marketplace.visualstudio.com/items/zhuangtongfa.Material-theme",
-      "description": "Extension version"
-    },
-    {
-      "url": "https://vsmarketplacebadge.apphb.com/installs/zhuangtongfa.Material-theme.svg",
-      "href": "https://marketplace.visualstudio.com/items/zhuangtongfa.Material-theme",
-      "description": "Extension installs"
-    },
-    {
-      "url": "https://vsmarketplacebadge.apphb.com/rating/zhuangtongfa.Material-theme.svg",
-      "href": "https://marketplace.visualstudio.com/items/zhuangtongfa.Material-theme",
-      "description": "Extension Rating"
-    }
-  ]
+  }
 }
