@@ -1,9 +1,13 @@
-# OneDarkPro-Mariana-VSCode
-<img src="https://github.com/myaghobi/OneDarkPro-Mariana/blob/main/icon.png?raw=true" alt="Icon OneDarkPro-Mariana" width="100">
-One Dark Pro theme with Mariana color syntax highlight for users likes to have Mariana scheme just like Sublime Text
+<img src="https://github.com/myaaghubi/OneDarkPro-Mariana/blob/main/icon.png?raw=true" alt="Icon OneDarkPro-Mariana" width="120"><br>
 
-Note: This theme is based on
-[One Dark Pro](https://github.com/Binaryify/OneDark-Pro).
+# OneDarkPro Mariana VSCode
+
+[![release](https://img.shields.io/github/release/myaaghubi/OneDarkPro-Mariana.svg?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=00e8c6)](https://github.com/myaaghubi/OneDarkPro-Mariana/releases/latest)
+[![rating](https://img.shields.io/visual-studio-marketplace/stars/myaaghubi.onedarkpro-mariana-vscode?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=myaaghubi.onedarkpro-mariana-vscode)
+
+**One Dark Pro** `3.15.8` theme with the **Mariana** color syntax highlight for users who likes to have Mariana scheme just like Sublime Text
+
+>Note: This theme is based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro).
 
 
 

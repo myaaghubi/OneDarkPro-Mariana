@@ -6,15 +6,9 @@ Atom's iconic One Dark theme, and one of the most installed [themes](https://mar
 
 
 
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/zhuangtongfa.Material-theme) [![Version](https://vsmarketplacebadge.apphb.com/version/zhuangtongfa.Material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) [![Installs](https://vsmarketplacebadge.apphb.com/installs/zhuangtongfa.Material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/zhuangtongfa.Material-theme) [![Version](https://vsmarketplacebadges.dev/version/zhuangtongfa.Material-theme.png)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) [![Installs](https://vsmarketplacebadges.dev/installs/zhuangtongfa.Material-theme.png)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
 ## SPONSORS
-
-[![bloop](./screenshots/bloop_small.png)](https://bloop.ai/?utm_source=vscmarket&utm_campaign=onedarkpro&utm_medium=banner)
-
-Bored of trawling through the docs? Get JS and TS code examples from documentation and Open Source right in your IDE
-[Learn more](https://bloop.ai/?utm_source=vscmarket&utm_campaign=onedarkpro&utm_medium=banner).
-<br><br>
 
 [![codestream](https://alt-images.codestream.com/codestream_logo_pkief_material.png)](https://sponsorlink.codestream.com/?utm_source=vscmarket&utm_campaign=onedarkpro&utm_medium=banner)
 

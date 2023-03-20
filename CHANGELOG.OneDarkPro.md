@@ -1,22 +1,29 @@
 # CHANGELOG
+## 3.15.7 | 2023.01.17
+- Unify Ruby symbols color #771
+
+
+## 3.15.6 | 2022.10.12
+- Improve `list.highlightForeground` contrast
+
 ## 3.15.5 | 2022.09.05
 
-- Import `toml` semantic highlight support [#759](https://github.com/Binaryify/OneDark-Pro/issues/759)
+- Improve `toml` semantic highlight support #759
 
 
 ## 3.15.4 | 2022.09.03
 
-- Import `toml` semantic highlight support [#759](https://github.com/Binaryify/OneDark-Pro/issues/759)
+- Improve `toml` semantic highlight support #759
 
 
 ## 3.15.3 | 2022.09.03
 
-- Fixed `toml` highlight error [#759](https://github.com/Binaryify/OneDark-Pro/issues/759)
+- Fixed `toml` highlight error #759
 
 
 ## 3.15.2 | 2022.06.26
 
-- swap ansiBrightWhite and ansiWhite [#751](https://github.com/Binaryify/OneDark-Pro/issues/751)
+- swap ansiBrightWhite and ansiWhite #751
 
 ## 3.15.1 | 2022.06.24
 
@@ -24,11 +31,11 @@
 
 ## 3.15.0 | 2022.06.16
 
-- Add `tab.activeBorder` color to improve the actived tab visibility [#746](https://github.com/Binaryify/OneDark-Pro/issues/746) (if you don't like the border, you can set "tab.activeBorder" to "#00000000" in your setting.json)
+- Add `tab.activeBorder` color to improve the actived tab visibility #746 (if you don't like the border, you can set "tab.activeBorder" to "#00000000" in your setting.json)
 
 ## 3.14.4 | 2022.06.11
 
-- Fix: One Dark Mix theme debugToolBar bgColor [#747](https://github.com/Binaryify/OneDark-Pro/issues/747)
+- Fix: One Dark Mix theme debugToolBar bgColor #747
 
 ## 3.14.3 | 2022.06.11
 
@@ -595,8 +602,8 @@
 
 ## 2.17.3 | 2018.10.05
 
-- Improve elixir support [#262](https://github.com/Binaryify/OneDark-Pro/issues/262)
-- Improve flow support [#222](https://github.com/Binaryify/OneDark-Pro/issues/222)
+- Improve elixir support #262
+- Improve flow support #222
 
 ## 2.17.1 | 2018.10.04
 
@@ -637,7 +644,7 @@ Improve Ruby and FlowJS support
 
 ## 2.15.4 | 2018.8.09
 
-- Change C/C++ comments from bold to italic to make more unified [#242](https://github.com/Binaryify/OneDark-Pro/issues/242)
+- Change C/C++ comments from bold to italic to make more unified #242
 
 ## 2.15.3 | 2018.7.31
 
@@ -719,7 +726,7 @@ Update integrated terminal colors with One Dark color
 
 ## 2.12.6 | 2018.2.28
 
-String Interpolation for visual grepping fixes [#191](https://github.com/Binaryify/OneDark-Pro/issues/191)
+String Interpolation for visual grepping fixes #191
 
 ## 2.12.5 | 2018.2.24
 
@@ -911,7 +918,7 @@ support is an expression in typescript
 
 ## 2.8.0 | 2017.5.22
 
-resolve issue [#48](https://github.com/Binaryify/OneDark-Pro/issues/48) [#65](https://github.com/Binaryify/OneDark-Pro/issues/65) [#66](https://github.com/Binaryify/OneDark-Pro/issues/66) [#69](https://github.com/Binaryify/OneDark-Pro/issues/69) [#70](https://github.com/Binaryify/OneDark-Pro/issues/70), support PHP comparison, add support for
+resolve issue #48 #65 #66 #69 #70, support PHP comparison, add support for
 arithmetic operators, add support for PHP regex operators, support heredoc PHP
 operator
 

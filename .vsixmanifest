@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="onedarkpro-mariana" Version="0.0.1" Publisher="myaghobi" />
+			<Identity Language="en-US" Id="onedarkpro-mariana" Version="0.0.1" Publisher="myaaghubi" />
 			<DisplayName>One Dark Pro - Mariana</DisplayName>
 			<Description xml:space="preserve">Atom‘s iconic One Dark theme with Mariana color syntax highligh for VSCode</Description>
 			<Tags>one dark mariana,mariana,one dark,onedark,one dark pro,onedark pro,theme,atom,color-theme,__web_extension</Tags>
@@ -10,17 +10,17 @@
 			<Badges>
 			</Badges>
 			<Properties>
-				<Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.66.0" />
+				<Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.76.0" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionKind" Value="ui,workspace,web" />
 				<Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
 				
-				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/myaghobi/OneDarkPro-Mariana.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/myaghobi/OneDarkPro-Mariana.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/myaghobi/OneDarkPro-Mariana.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/myaghobi/OneDarkPro-Mariana/issues" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/myaghobi/OneDarkPro-Mariana/" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/myaaghubi/OneDarkPro-Mariana.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/myaaghubi/OneDarkPro-Mariana.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/myaaghubi/OneDarkPro-Mariana.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/myaaghubi/OneDarkPro-Mariana/issues" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/myaaghubi/OneDarkPro-Mariana/" />
 				<Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#2d323b" />
 				<Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
 				<Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />

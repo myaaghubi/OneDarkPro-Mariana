@@ -86,4 +86,12 @@ export async function activate() {
         )
     })
   })
+
+  await removeOldVersionAfterMigration();
+}
+
+async function removeOldVersionAfterMigration() {
+  // let oldExists = Commands.executeCommand('workbench.extensions.search', 'myaghobi.onedarkpro-mariana');
+  let uninstallOld = Commands.executeCommand('workbench.extensions.uninstallExtension', 'myaghobi.onedarkpro-mariana');
+  await Promise.all([uninstallOld]);
 }
