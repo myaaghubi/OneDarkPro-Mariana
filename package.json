@@ -1,8 +1,8 @@
 {
   "name": "onedarkpro-mariana-vscode",
-  "displayName": "One Dark Pro - Mariana",
+  "displayName": "One Dark Pro - Mariana.",
   "description": "Atom‘s iconic One Dark theme with Mariana color syntax highlight for VSCode",
-  "version": "3.15.8.0",
+  "version": "0.0.2",
   "publisher": "myaaghubi",
   "license": "MIT",
   "bugs": {
